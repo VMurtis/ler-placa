@@ -5,6 +5,11 @@ Este projeto realiza a detecção de placas veiculares a partir de imagens, util
 ## 📂 Estrutura do Projeto
 ![image](https://github.com/user-attachments/assets/088c21ef-d407-4876-a044-e2965d5db152)
 
+## Exemplo de captura de texto da imagem
+![image](https://github.com/user-attachments/assets/0aa25124-dfa5-4a6f-ad7c-fc8428327507)
+
+
+
 
 ## 🚀 Tecnologias Utilizadas
 
@@ -34,8 +39,9 @@ pip install easyocr
 - A imagem é exibida com a placa destacada.
 - As placas são armazenadas e listadas no banco de dados.
 
-![Uploading image.png…]()
 
 
 ---
+
+
 
