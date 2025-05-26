@@ -34,5 +34,8 @@ pip install easyocr
 - A imagem é exibida com a placa destacada.
 - As placas são armazenadas e listadas no banco de dados.
 
+![Uploading image.png…]()
+
+
 ---
 
