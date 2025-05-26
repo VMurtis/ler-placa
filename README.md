@@ -8,6 +8,9 @@ Este projeto realiza a detecção de placas veiculares a partir de imagens, util
 ## Exemplo de captura de texto da imagem
 ![image](https://github.com/user-attachments/assets/0aa25124-dfa5-4a6f-ad7c-fc8428327507)
 
+![image](https://github.com/user-attachments/assets/13e1f459-0635-45fd-881c-345e3b69e345)
+
+
 
 
 
